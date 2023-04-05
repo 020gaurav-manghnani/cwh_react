@@ -3,3 +3,7 @@
     max-width: 540px;
   }
 }
+body{
+  overflow-y: scroll;
+}
+
